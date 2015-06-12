@@ -7,5 +7,7 @@ public class MainClass {
 		System.out.println("연습입니다.2");
 		
 		B b= new B();
+		
+		C c = new C();
 	}
 }
