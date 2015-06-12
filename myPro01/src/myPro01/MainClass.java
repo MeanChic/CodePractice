@@ -9,5 +9,9 @@ public class MainClass {
 		B b= new B();
 		
 		C c = new C();
+		
+		D d = new D();
+		
+		System.out.println(a+"\n"+b+"\n"+c+"\n"+d);
 	}
 }
